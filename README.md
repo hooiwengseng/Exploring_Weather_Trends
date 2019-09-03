@@ -1,6 +1,6 @@
 # Exploring Weather Trends - SQL
 
-This project is part of Udacity Data Analyst Nanodegree program.
+This project was completed as part of the Udacity Data Analyst Nanodegree program requirements.
 
 ## Summary
 
